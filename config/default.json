@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://mollels:Bighero67@cluster0.23vthyw.mongodb.net/?retryWrites=true&w=majority" 
+    "mongoURI": "mongodb+srv://mollels:Bighero67@cluster0.23vthyw.mongodb.net/?retryWrites=true&w=majority", 
+    "jwtSecret": "doordonotthereisnotry" 
 }
